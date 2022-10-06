@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - ⭐ Puede que te guste : [EcommerceWeb](https://aitordsgn.github.io/EcommerceWeb/).
 
 ### 🛠 Lenguajes
+-🖥️ &#160; ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=Css)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
