@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - Un estudiante de Ingenieria Electronica Industrial y Automatica. Enamorado de los proyectos Open Source
 - Estoy interesado en hacer arte con 3D y crear aplicaciones/Juegos
 - 🌱 Actualmente trabajando en Orduña,España.
-- 💬 Preguntame sobre mis proyectos o mis proyectos. [reyortegaitor@gmail.com](mailto:reyortegaitor@gmail.com)
+- 💬 Preguntame sobre mis proyectos o mis proyectos. [reyortegaitor@gmail.com](mailto:aitordsgn@gmail.com)
 - ⭐ Puede que te guste : [EcommerceWeb](https://aitordsgn.github.io/EcommerceWeb/).
 
 ### 🛠 Lenguajes
