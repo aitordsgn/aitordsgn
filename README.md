@@ -5,7 +5,7 @@ aitordsgn/aitordsgn is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## Hola Gente 👋
-[![Mail Badge](https://img.shields.io/badge/-reyortegaitor@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:reyortegaitor@gmail.com)](mailto:joeysiwei@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-reyortegaitor@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aitordsgn@gmail.com)](mailto:joeysiwei@gmail.com)
 ---
 ### Soy Aitor Rey
 - Un estudiante de Ingenieria Electronica Industrial y Automatica. Enamorado de los proyectos Open Source
